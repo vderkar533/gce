@@ -1,0 +1,54 @@
+/* AcademicCalendar.css */
+
+/* Banner styling */
+.banner {
+  background-color: #343a40;
+  color: #dc3545;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Image Carousel styling */
+.event-carousel {
+  margin-bottom: 30px;
+}
+
+/* Academic Events container styling */
+.academic-events-container {
+  background-color: #f8f9fa;
+  color: #343a40;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Academic Event Card styling */
+.academic-event-card {
+  background-color: #dc3545;
+  color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.academic-event-card .card-header {
+  background-color: #343a40;
+}
+
+/* List item in Academic Event styling */
+.academic-event-card .list-group-item {
+  background-color: #dc3545;
+  color: white;
+}
+
+.academic-event-card .list-group-item:hover {
+  background-color: #bf2d3a;
+}
+
+.academic-event-card .list-group-item button {
+  background-color: #fff;
+  color: #dc3545;
+}
+
+.academic-event-card .list-group-item button:hover {
+  background-color: #dc3545;
+  color: #fff;
+}
